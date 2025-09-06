@@ -22,4 +22,4 @@ Built with Tkinter and Pandas, it integrates directly with Excel abbreviation da
 
 ## Screenshot
 
-![NOTAM Encoder Screenshot](images/NOTAM-Encoder-Decoder.jpg)
+![NOTAM Encoder Screenshot](NOTAM-Encoder-Decoder.jpg)
