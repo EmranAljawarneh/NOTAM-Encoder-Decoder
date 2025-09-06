@@ -18,3 +18,8 @@ Built with Tkinter and Pandas, it integrates directly with Excel abbreviation da
 `RWY 26L/08R CLSD DUE TO MAINT.`
 
 ---
+
+
+## Screenshot
+
+![NOTAM Encoder Screenshot](NOTAM-Encoder-Decoder.png)
